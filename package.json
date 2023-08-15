@@ -25,6 +25,7 @@
     "axios": "^1.4.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
+    "crisp-sdk-web": "^1.0.21",
     "eslint": "8.47.0",
     "eslint-config-next": "13.4.13",
     "lucide-react": "^0.263.1",
@@ -34,6 +35,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.45.4",
+    "react-hot-toast": "^2.4.1",
     "react-markdown": "^8.0.7",
     "replicate": "^0.16.0",
     "stripe": "^12.18.0",
@@ -41,6 +43,7 @@
     "tailwindcss": "3.3.3",
     "tailwindcss-animate": "^1.0.6",
     "typescript": "5.1.6",
+    "typewriter-effect": "^2.20.1",
     "zod": "^3.21.4",
     "zustand": "^4.4.1"
   },
