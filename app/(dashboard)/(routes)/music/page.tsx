@@ -61,8 +61,8 @@ const MusicPage = () => {
         title="Music Generation"
         description="Turn your prompt into music.."
         icon={Music}
-        iconColor="text-emerald-500"
-        bgColor="bg-emerald-500/10"
+        iconColor="text-fuchsia-500"
+        bgColor="bg-fuchsia-500/10"
       />
       <div className="px-4 lg:px-8">
         <div>
@@ -89,6 +89,7 @@ const MusicPage = () => {
               <Button
                 className="col-span-12 lg:col-span-2 w-full"
                 disabled={isLoading}
+                variant="generate"
               >
                 Generate
               </Button>

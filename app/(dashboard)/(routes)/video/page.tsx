@@ -60,10 +60,10 @@ const VideoPage = () => {
         title="Video Generation"
         description="Turn your prompt into video."
         icon={VideoIcon}
-        iconColor="text-orange-700"
-        bgColor="bg-orange-700/10"
+        iconColor="text-lime-700"
+        bgColor="bg-lime-700/10"
       />
-      <div className="px-4 lg:px-8">
+      <div className="px-4 lg:px-8 pt-6 pb-10">
         <div>
           <Form {...form}>
             <form
@@ -88,6 +88,7 @@ const VideoPage = () => {
               <Button
                 className="col-span-12 lg:col-span-2 w-full"
                 disabled={isLoading}
+                variant="generate"
               >
                 Generate
               </Button>

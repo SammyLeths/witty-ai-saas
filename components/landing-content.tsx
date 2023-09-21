@@ -4,28 +4,28 @@ import { Card, CardContent, CardHeader, CardTitle } from "./ui/card";
 
 const testimonials = [
   {
-    name: "Antonio",
-    avatar: "A",
-    title: "Software Engineer",
-    description: "This is the best application I've used!",
+    name: "Stanley",
+    avatar: "S",
+    title: "Content Writer",
+    description: "I absolutely love this seamless application!",
   },
   {
-    name: "Antonio",
-    avatar: "A",
-    title: "Software Engineer",
-    description: "This is the best application I've used!",
+    name: "Morgan",
+    avatar: "M",
+    title: "Digital Marketer",
+    description: "Content creation for marketing is a breeze!",
   },
   {
-    name: "Antonio",
-    avatar: "A",
-    title: "Software Engineer",
-    description: "This is the best application I've used!",
+    name: "Bridget",
+    avatar: "B",
+    title: "Data Analyst",
+    description: "My research papers are now created in half the time",
   },
   {
-    name: "Antonio",
-    avatar: "A",
-    title: "Software Engineer",
-    description: "This is the best application I've used!",
+    name: "Svelte",
+    avatar: "S",
+    title: "Sales Manager",
+    description: "I am now boosting sales like never before with AI",
   },
 ];
 
@@ -39,7 +39,7 @@ const LandingContent = () => {
         {testimonials.map((item) => (
           <Card
             key={item.description}
-            className="bg-[#192339] border-none text-white"
+            className="bg-white/10 border-none text-white"
           >
             <CardHeader>
               <CardTitle className="flex items-center gap-x-2">

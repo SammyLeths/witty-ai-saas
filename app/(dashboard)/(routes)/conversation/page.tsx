@@ -67,10 +67,10 @@ const ConversationPage = () => {
         title="Conversation"
         description="Our mist advanced conversation model."
         icon={MessageSquare}
-        iconColor="text-violet-500"
-        bgColor="bg-violet-500/10"
+        iconColor="text-yellow-500"
+        bgColor="bg-yellow-500/10"
       />
-      <div className="px-4 lg:px-8">
+      <div className="px-4 lg:px-8 py-6 lg:py-0">
         <div>
           <Form {...form}>
             <form
@@ -95,6 +95,7 @@ const ConversationPage = () => {
               <Button
                 className="col-span-12 lg:col-span-2 w-full"
                 disabled={isLoading}
+                variant="generate"
               >
                 Generate
               </Button>

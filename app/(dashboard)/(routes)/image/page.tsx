@@ -73,10 +73,10 @@ const ImagePage = () => {
         title="Image Generation"
         description="Turn your prompt into an image.."
         icon={ImageIcon}
-        iconColor="text-pink-700"
-        bgColor="bg-pink-700/10"
+        iconColor="text-teal-700"
+        bgColor="bg-teal-700/10"
       />
-      <div className="px-4 lg:px-8">
+      <div className="px-4 lg:px-8 pt-6 pb-10">
         <div>
           <Form {...form}>
             <form
@@ -155,6 +155,7 @@ const ImagePage = () => {
               <Button
                 className="col-span-12 lg:col-span-2 w-full"
                 disabled={isLoading}
+                variant="generate"
               >
                 Generate
               </Button>
