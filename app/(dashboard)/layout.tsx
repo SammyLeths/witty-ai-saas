@@ -1,3 +1,4 @@
+import Footer from "@/components/footer";
 import Navbar from "@/components/navbar";
 import Sidebar from "@/components/sidebar";
 import { getApiLimitCount } from "@/lib/api-limit";
@@ -13,7 +14,7 @@ const DashboardLayout = async ({ children }: { children: React.ReactNode }) => {
         <Sidebar isPro={isPro} apiLimitCount={apiLimitCount} />
       </div>
       <main className="md:pl-72">
-        <Navbar /> {children}
+        <Navbar /> {children} <Footer />
       </main>
     </div>
   );
