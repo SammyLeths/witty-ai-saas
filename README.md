@@ -1,8 +1,8 @@
 <h1>Witty AI SaaS</h1>
 
-Condo Rentals is a real estate listing marketplace for short let and long term homestay experiences inspired by Airbnb.
+Witty AI Software As A Service is an AI tool that can be used to create content 10x faster. This tool allows automatic generation of contents such as Images, Videos, Music and Code. It can also generate meaningful conversational responses via chat.
 
-Condo Rentals projects a community built on a sharing economy. It is an online platform that allows property owners to list their place as holiday accommodation and allows travellers to find a place to stay while they are away from home.
+Witty AI projects a community built on a sharing economy. It is an online platform that allows property owners to list their place as holiday accommodation and allows travellers to find a place to stay while they are away from home.
 
 On the website, homeowners can create a listing for their property and that listing will include a written description, photos and a list of amenities, as well as information about the local area.
 
