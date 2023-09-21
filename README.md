@@ -29,12 +29,12 @@ This project was developed using React, NextJS, TypeScript, Tailwind CSS, Prisma
 
 <h2>Screenshots</h2>
 
-![Artboard 1cd-mock-2](https://github.com/SammyLeths/next-realestate/assets/64320618/bc8f8826-f291-4753-a3d5-665cb202917c)
+![witty-ai](https://github.com/SammyLeths/witty-ai-saas/assets/64320618/d0f3d030-e991-4b13-9c41-9ac2b33f2c14)
 
 <h2>Links</h2>
 
 <ul>
-  <li>Demo: <a href="https://condo-rentals.vercel.app/" target="_blank">https://condo-rentals.vercel.app/</a></li>
+  <li>Demo: <a href="https://witty-ai-saas.vercel.app/" target="_blank">https://witty-ai-saas.vercel.app/</a></li>
 </ul>
 
 <h2>Tech Stack</h2>
