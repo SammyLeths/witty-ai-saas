@@ -2,30 +2,22 @@
 
 Witty AI Software As A Service is an AI tool that can be used to create content 10x faster. This tool allows automatic generation of contents such as Images, Videos, Music and Code. It can also generate meaningful conversational responses via chat.
 
-Witty AI projects a community built on a sharing economy. It is an online platform that allows property owners to list their place as holiday accommodation and allows travellers to find a place to stay while they are away from home.
-
-On the website, homeowners can create a listing for their property and that listing will include a written description, photos and a list of amenities, as well as information about the local area.
-
-Travellers can use filters to search for holiday accommodation that’s right for them – such as the number of bedrooms, location and price.
-
-Condo Rentals is based on trust. It establishes this trust by asking both guests and hosts to review each other. This creates a rating system for all listings and ensures that, in most cases, everyone has a good experience.
-
-Condo Rentals is a modern responsive simple property listing platform suitable for use by real estate agencies and independent realtors. With this project, you can easily create a property listing website. Some of the features built into this project include:
+Witty AI Software As A Service (SAAS) is a modern responsive, simple saas platform suitable for use by digital marketing agencies and individuals. With this project, you can easily generate marketing assets such as Images, Videos, Music, Q&A Conversations and Code Snippets. Some of the features built into this project include:
 
 <ul>
-  <li>Property listing</li>
-  <li>Advanced search and filters</li>
-  <li>Categorization</li>
-  <li>Advanced calendar booking</li>
-  <li>Property reservation</li>
-  <li>User authentication</li>
-  <li>Social login</li>
+  <li>Clerk User Authentication</li>
+  <li>Social Login</li>
+  <li>Image Generation Tool (Open AI)</li>
+  <li>Video Generation Tool (Replicate AI)</li>
+  <li>Conversation Generation Tool (Open AI)</li>
+  <li>Music Generation Tool (Replicate AI)</li>
+  <li>Code Generation Tool (Open AI)</li>
+  <li>Stripe monthly subscription</li>
+  <li>Free tier</li>
   <li>Interactive modals</li>
-  <li>Multi step smart forms</li>
-  <li>Cloudinary multi-file upload</li>
 </ul>
 
-This project was developed using React, NextJS, TypeScript, Tailwind CSS, Prisma, MongoDB, Leaflet, Cloudinary, Axios, NPM, Autoprefixer, PostCSS and HTML5.
+This project was developed using React, NextJS, TypeScript, Tailwind CSS, Prisma, MySql, Axios, NPM.
 
 <h2>Screenshots</h2>
 
@@ -45,15 +37,13 @@ This project was developed using React, NextJS, TypeScript, Tailwind CSS, Prisma
   <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TYPESCRIPT" />
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TAILWIND CSS" />
   <img src="https://img.shields.io/badge/prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="PRISMA" />
-  <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGO DB" />
-  <img src="https://img.shields.io/badge/leaflet-199900.svg?style=for-the-badge&logo=leaflet&logoColor=white" alt="LEAFLET" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" />
   <img src="https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white" alt="AXIOS" />
   <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=axios&logoColor=white" alt="NPM" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JAVASCRIPT" />
-  
 </p>
 
 <h2>Helpful Resources</h2>
@@ -75,10 +65,7 @@ This project was developed using React, NextJS, TypeScript, Tailwind CSS, Prisma
     <b><a href="https://www.prisma.io/" target="_blank">PPRISMA</a></b>: Next-generation Node.js and TypeScript ORM.
   </li>
   <li>
-    <b><a href="https://www.mongodb.com/" target="_blank">MONGO DB</a></b>: A cross-platform document-oriented database program.
-  </li>
-  <li>
-    <b><a href="https://leafletjs.com/" target="_blank">LEAFLET JS</a></b>: An open-source JavaScript library for mobile-friendly interactive maps.
+    <b><a href="https://www.mysql.com/" target="_blank">MYSQL</a></b>: Open-source relational database management system.
   </li>
   <li><b>HTML5:</b> 
     <ul>
@@ -107,12 +94,6 @@ This project was developed using React, NextJS, TypeScript, Tailwind CSS, Prisma
   <li>
     <b><a href="https://mugshotbot.com/" target="_blank">MUGSHOTBOT</a></b>: Automatic beautiful link previews
   </li>
-</ul>
-
-<h2>Acknowledgement</h2>
-
-<ul>
-  <li><b><a href="https://www.airbnb.co.uk/" target="_blank">Airbnb</a></b>: A community built for belonging</li>
 </ul>
 
 <h2>Author's Links</h2>
