@@ -2,10 +2,9 @@
 const nextConfig = {
   images: {
     domains: [
+      "googleusercontent.com",
       "oaidalleapiprodscus.blob.core.windows.net",
-      "avatars.githubusercontent.com",
-      "lh3.googleusercontent.com",
-      "res.cloudinary.com",
+      "cdn.openai.com",
     ],
   },
 };
