@@ -111,7 +111,7 @@ const CodePage = () => {
           )}
           {messages.length === 0 && !isLoading && (
             <div>
-              <Empty label="No conversation started." />
+              <Empty label="No code generated." />
             </div>
           )}
           <div className="flex flex-col-reverse gap-y-4">
