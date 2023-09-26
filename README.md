@@ -21,7 +21,7 @@ This project was developed using React, NextJS, TypeScript, Tailwind CSS, Prisma
 
 <h2>Screenshots</h2>
 
-![witty-ai](https://github.com/SammyLeths/witty-ai-saas/assets/64320618/d0f3d030-e991-4b13-9c41-9ac2b33f2c14)
+![proj11-witty-ai](https://github.com/SammyLeths/witty-ai-saas/assets/64320618/c46f4556-28bf-4b20-aaf1-51f636f1498c)
 
 <h2>Links</h2>
 
