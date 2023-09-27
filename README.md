@@ -65,6 +65,12 @@ This project was developed using React, NextJS, TypeScript, Tailwind CSS, Prisma
     <b><a href="https://www.prisma.io/" target="_blank">PPRISMA</a></b>: Next-generation Node.js and TypeScript ORM.
   </li>
   <li>
+    <b><a href="https://openai.com/" target="_blank">OPENAI</a></b>: AI-powered language model capable of generating human-like text based on context and past conversations.
+  </li>
+    <li>
+    <b><a href="https://replicate.com/" target="_blank">REPLICATE AI</a></b>: run machine learning models with a few lines of code, without needing to understand how machine learning works.
+  </li>
+  <li>
     <b><a href="https://www.mysql.com/" target="_blank">MYSQL</a></b>: Open-source relational database management system.
   </li>
   <li><b>HTML5:</b> 
