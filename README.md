@@ -21,7 +21,7 @@ This project was developed using React, NextJS, TypeScript, Tailwind CSS, Prisma
 
 <h2>Screenshots</h2>
 
-![witty-ai](https://github.com/SammyLeths/witty-ai-saas/assets/64320618/d0f3d030-e991-4b13-9c41-9ac2b33f2c14)
+![proj11-witty-ai](https://github.com/SammyLeths/witty-ai-saas/assets/64320618/c46f4556-28bf-4b20-aaf1-51f636f1498c)
 
 <h2>Links</h2>
 
@@ -63,6 +63,12 @@ This project was developed using React, NextJS, TypeScript, Tailwind CSS, Prisma
   </li>
   <li>
     <b><a href="https://www.prisma.io/" target="_blank">PPRISMA</a></b>: Next-generation Node.js and TypeScript ORM.
+  </li>
+  <li>
+    <b><a href="https://openai.com/" target="_blank">OPENAI</a></b>: AI-powered language model capable of generating human-like text based on context and past conversations.
+  </li>
+    <li>
+    <b><a href="https://replicate.com/" target="_blank">REPLICATE AI</a></b>: run machine learning models with a few lines of code, without needing to understand how machine learning works.
   </li>
   <li>
     <b><a href="https://www.mysql.com/" target="_blank">MYSQL</a></b>: Open-source relational database management system.
