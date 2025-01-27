@@ -12,7 +12,7 @@ const LandingPage = () => {
       <LandingHero />
       <LandingContent />
       <div className="text-center flex justify-center items-center text-sm text-white py-10">
-        A project by &nbsp;
+        A sandbox project by &nbsp;
         <Link
           className="font-bold hover:text-blue-500"
           href="https://www.sammyleths.com"
